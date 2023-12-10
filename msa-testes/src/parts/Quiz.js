@@ -149,11 +149,7 @@ const quizData = [
         options: ['Java', 'C++', 'Python', 'Swift'],
         correctAnswer: 'Java',
     },
-    {
-        question: 'O que é um "cookie" na web?',
-        options: ['Um tipo de biscoito', 'Um arquivo de dados armazenado em um navegador', 'Um tipo de senha', 'Uma ferramenta de pesquisa na web'],
-        correctAnswer: 'Um arquivo de dados armazenado em um navegador',
-    },
+
 ];
 
 export default quizData;
